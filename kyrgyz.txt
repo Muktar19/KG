@@ -1,1 +1,2 @@
 Hi I am from Kyrgyzstan.
+If you read this it means my 2nd push from local machine to GitHub is working :) 
